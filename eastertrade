@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/almaz0scripts/scripts/refs/heads/main/script"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com//scripts/refs/heads/main/script"))()
