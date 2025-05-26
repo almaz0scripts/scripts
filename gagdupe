@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/almaz0scripts/scripts/refs/heads/main/2nd"))() if queue_on_teleport then queue_on_teleport(loadstring(game:HttpGet("https://raw.githubusercontent.com/almaz0scripts/scripts/refs/heads/main/2nd"))()) end
+loadstring(game:HttpGet("https://raw.githubusercontent.com/almaz0scripts/scripts/refs/heads/main/2nd"))() queue_on_teleport(loadstring(game:HttpGet("https://raw.githubusercontent.com/almaz0scripts/scripts/refs/heads/main/gagdupe"))())
